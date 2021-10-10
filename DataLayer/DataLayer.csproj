@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>Sandbox2021Oct.DataLayer</AssemblyName>
+    <RootNamespace>Sandbox2021Oct.DataLayer</RootNamespace>
+  </PropertyGroup>
+
+</Project>
