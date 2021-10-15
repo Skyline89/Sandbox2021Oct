@@ -48,7 +48,5 @@ namespace Sandbox2021Oct.WebAppAPI
                 endpoints.MapControllers();
             });
         }
-
-        // Sample comments were added to the branch.
     }
 }
